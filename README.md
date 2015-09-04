@@ -1,2 +1,4 @@
 # react-player
-HTML5 video player component
+> Create customizable HTML5 video players using React
+
+**NOTE:** Still a WIP
